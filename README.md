@@ -14,6 +14,7 @@ I'm looking for software engineering or ML internships.
 - [MediConnect](https://github.com/AY2627S1-CS2103T-W08-1/tp): Java, JavaFX. Patient-care coordination app (team project).
 - [Alfred](https://github.com/Gauhet/ip): Java, JavaFX. Task-manager chatbot with a GUI and a console mode.
 - [CIFAR-10 CNN](https://github.com/Gauhet/cnn-image-classifier): Python, PyTorch. Image classifier trained from scratch, 91.6% test accuracy, with a browser demo.
+- [Pet Breed Classifier](https://github.com/Gauhet/pet-breed-classifier): Python, PyTorch. Identifies 37 cat and dog breeds by fine-tuning a pretrained ResNet-50, 93.6% test accuracy.
 
 ### Contact
 
