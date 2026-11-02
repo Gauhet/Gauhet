@@ -15,7 +15,7 @@ I'm looking for software engineering or ML internships.
 - [Alfred](https://github.com/Gauhet/ip): Java, JavaFX. Task-manager chatbot with a GUI and a console mode.
 - [CIFAR-10 CNN](https://github.com/Gauhet/cnn-image-classifier): Python, PyTorch. Image classifier trained from scratch, 91.6% test accuracy, with a browser demo.
 - [Pet Breed Classifier](https://github.com/Gauhet/pet-breed-classifier): Python, PyTorch. Identifies 37 cat and dog breeds by fine-tuning a pretrained ResNet-50, 93.6% test accuracy.
-- [Hard Hat Detection](https://github.com/Gauhet/hard-hat-detection): Python, PyTorch, YOLOv8. Finds construction workers with and without hard hats in photos and video, 97.3% test mAP50.
+- [Hard Hat Detection](https://github.com/Gauhet/hard-hat-detection): Python, PyTorch, YOLOv8. Finds construction workers with and without hard hats in photos and video, including close-ups: 97.1% mAP50 on the standard test set, 91.0% on a more varied one.
 
 ### Contact
 
