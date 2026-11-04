@@ -18,6 +18,7 @@ I'm looking for software engineering or ML internships.
 - [Hard Hat Detection](https://github.com/Gauhet/hard-hat-detection): Python, PyTorch, YOLOv8. Finds construction workers with and without hard hats in photos and video, including close-ups: 97.1% mAP50 on the standard test set, 91.0% on a more varied one.
 - [Face Recognition](https://github.com/Gauhet/face-recognition): Python, PyTorch. Names faces in photos and video while keeping strangers unnamed, groups albums by person and blurs faces in video: 99.35% verification accuracy on LFW.
 - [Polyp Segmentation](https://github.com/Gauhet/polyp-segmentation): Python, PyTorch. Tests whether GAN-made training images help a U-Net outline polyps in colonoscopy images from a hospital it never saw: across 69 models, they mostly didn't.
+- [AI Image Detector](https://github.com/Gauhet/ai-image-detector): Python, PyTorch. A Vision Transformer that spots AI-generated images from 21 generators it never saw, including DALL·E 3 and Midjourney: 0.89 AUC against real camera photos, and an analysis of why web graphics fool it.
 
 ### Contact
 
