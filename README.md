@@ -4,8 +4,10 @@ I study Computer Science at NUS. Most of my time goes into software engineering
 coursework and teaching myself machine learning, mainly computer vision with PyTorch.
 
 Right now I'm working with a team on MediConnect, a desktop app that helps chronically
-ill patients and their caregivers coordinate care. On the side I'm building small vision
-projects: an image classifier, a transfer-learning pipeline, and an object detector.
+ill patients and their caregivers coordinate care. On the side I build computer vision
+projects in PyTorch, and what I care about most is whether a model holds up on data unlike
+its training set: another hospital's scans, faces it has never seen, images from AI
+generators it never trained on.
 
 I'm looking for software engineering or ML internships.
 
